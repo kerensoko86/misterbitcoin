@@ -1,0 +1,102 @@
+{
+  "configVersion": 1,
+  "timestamp": 1587195528529,
+  "index": "https://kerensoko86.github.io/misterbitcoin/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://kerensoko86.github.io/misterbitcoin/favicon.ico",
+        "https://kerensoko86.github.io/misterbitcoin/index.html",
+        "https://kerensoko86.github.io/misterbitcoin/main-es2015.21848937b964f426f582.js",
+        "https://kerensoko86.github.io/misterbitcoin/main-es5.21848937b964f426f582.js",
+        "https://kerensoko86.github.io/misterbitcoin/manifest.webmanifest",
+        "https://kerensoko86.github.io/misterbitcoin/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "https://kerensoko86.github.io/misterbitcoin/polyfills-es5.9e286f6d9247438cbb02.js",
+        "https://kerensoko86.github.io/misterbitcoin/runtime-es2015.1eba213af0b233498d9d.js",
+        "https://kerensoko86.github.io/misterbitcoin/runtime-es5.1eba213af0b233498d9d.js",
+        "https://kerensoko86.github.io/misterbitcoin/styles.87f13e45c65063b0099f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://kerensoko86.github.io/misterbitcoin/TitilliumWeb-Regular.522ebad20fa0808ac284.ttf",
+        "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/OFL.txt",
+        "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-Black.ttf",
+        "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-Bold.ttf",
+        "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-BoldItalic.ttf",
+        "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-ExtraLight.ttf",
+        "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-ExtraLightItalic.ttf",
+        "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-Italic.ttf",
+        "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-Light.ttf",
+        "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-LightItalic.ttf",
+        "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-Regular.ttf",
+        "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-SemiBold.ttf",
+        "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-SemiBoldItalic.ttf",
+        "https://kerensoko86.github.io/misterbitcoin/assets/icons/apple-touch-icon.png",
+        "https://kerensoko86.github.io/misterbitcoin/assets/icons/favicon-16x16.png",
+        "https://kerensoko86.github.io/misterbitcoin/assets/icons/favicon-32x32.png",
+        "https://kerensoko86.github.io/misterbitcoin/assets/icons/icon-192x192.png",
+        "https://kerensoko86.github.io/misterbitcoin/assets/icons/icon-512x512.png",
+        "https://kerensoko86.github.io/misterbitcoin/assets/images/guy.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://kerensoko86.github.io/misterbitcoin/TitilliumWeb-Regular.522ebad20fa0808ac284.ttf": "3e2ead835511bff7fe5874e95880283b002b9eab",
+    "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/OFL.txt": "6ca009428806f93f414c7998e3a31c9695344244",
+    "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-Black.ttf": "e29161c940526844e54b28e9c9fd9963351e8e87",
+    "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-Bold.ttf": "ac297303cc8329cbfa3c04a3f424d41982532ba5",
+    "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-BoldItalic.ttf": "85aada89262f376bc23b5597b5f54890339d54f0",
+    "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-ExtraLight.ttf": "a6f5f53514aec8ad6cf4bce2f9421d20a18b7aa9",
+    "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-ExtraLightItalic.ttf": "a8eedb51e881d7428f7b7ddeb88fab82eeb1eae6",
+    "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-Italic.ttf": "e191f5898beff476f384b77a682ecfb912f69cc0",
+    "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-Light.ttf": "6d2c1db3efc21da0d875dcf1986d8778935c0c8e",
+    "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-LightItalic.ttf": "999baf118385a1168e009f315590c2df0a7c00c9",
+    "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-Regular.ttf": "3e2ead835511bff7fe5874e95880283b002b9eab",
+    "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-SemiBold.ttf": "1a6934b8b82bcfbed62c194f5a81eda326c03141",
+    "https://kerensoko86.github.io/misterbitcoin/assets/fonts/TitilliumWeb/TitilliumWeb-SemiBoldItalic.ttf": "590deef1dc3697627b6f1b920b43834f6bde2bae",
+    "https://kerensoko86.github.io/misterbitcoin/assets/icons/apple-touch-icon.png": "c1e83b9a117ec76c1403b1062cdf9e96518a45a5",
+    "https://kerensoko86.github.io/misterbitcoin/assets/icons/favicon-16x16.png": "016f96eb2d754ea9117abb92382a2433bd50bf92",
+    "https://kerensoko86.github.io/misterbitcoin/assets/icons/favicon-32x32.png": "2c67fa482ab406b0d68a49b809b441db3f1cfcb8",
+    "https://kerensoko86.github.io/misterbitcoin/assets/icons/icon-192x192.png": "bb960ee25c4abaa1d9d959b04fdfb02b724e5a2e",
+    "https://kerensoko86.github.io/misterbitcoin/assets/icons/icon-512x512.png": "6dca96a7d6ff4cecc2bc95e63789176eb41c61e2",
+    "https://kerensoko86.github.io/misterbitcoin/assets/images/guy.png": "51ad0687fe10a6a18449d5a14a080422212dd403",
+    "https://kerensoko86.github.io/misterbitcoin/favicon.ico": "ab39aca3830f64a3d23eec1e76505581f6dad5fe",
+    "https://kerensoko86.github.io/misterbitcoin/index.html": "372942005f1299749731a7e799a92f48df7fe016",
+    "https://kerensoko86.github.io/misterbitcoin/main-es2015.21848937b964f426f582.js": "ff3865c9bc282cb13bf6b12c0b6b866f40c4f80d",
+    "https://kerensoko86.github.io/misterbitcoin/main-es5.21848937b964f426f582.js": "254d26d8124a8d7e8cd67666fa3057c41ea05930",
+    "https://kerensoko86.github.io/misterbitcoin/manifest.webmanifest": "e799a94bad7d39d79872c3c0409cc8d4172b2a0d",
+    "https://kerensoko86.github.io/misterbitcoin/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://kerensoko86.github.io/misterbitcoin/polyfills-es5.9e286f6d9247438cbb02.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
+    "https://kerensoko86.github.io/misterbitcoin/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://kerensoko86.github.io/misterbitcoin/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://kerensoko86.github.io/misterbitcoin/styles.87f13e45c65063b0099f.css": "c300c65e5cd195c77b27cef97b44163cf1290820"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
