@@ -1,0 +1,23 @@
+
+.contact-preview{
+    display:flex;
+    border:1px solid black;
+    background-color: lightblue;
+    padding: 5px;
+    margin:0px 300px;
+    cursor: pointer;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.contact-preview a{
+    text-decoration: none;
+    text-decoration-color: white;
+}
+h3{
+    margin-left: 20px;
+    /* display:contents; */
+}
+img{
+    width:50px;
+    }

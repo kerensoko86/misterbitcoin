@@ -1,0 +1,11 @@
+<section class="contact-details">
+    <img src="https://robohash.org/{{contact.name}}.png?set=set5">
+    <div> Name:{{contact.name}}</div>
+    <div>Phone:{{contact.phone}}</div>
+    <div>Email:{{contact.email}}</div>
+    <button (click)="editContact(contact._id)">Edit</button> | <button
+        (click)="removeContact(contact._id)">Remove</button>
+</section>
+
+<app-transfer-fund (onContactSelected)="onContactSelected.emit(contact)" [contact]="contact"></app-transfer-fund>
+<app-move-list></app-move-list>

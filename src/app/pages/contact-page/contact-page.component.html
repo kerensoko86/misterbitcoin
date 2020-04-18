@@ -1,0 +1,4 @@
+<section>
+    <app-contact-filter (onFilter)="onFilterHandler($event)" [filterBy]="filterBy"></app-contact-filter>
+    <app-contact-list (onContactSelected)="currContact = $event" [contacts]="contacts"></app-contact-list>
+</section>

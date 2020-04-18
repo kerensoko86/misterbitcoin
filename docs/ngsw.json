@@ -1,0 +1,76 @@
+{
+  "configVersion": 1,
+  "timestamp": 1586938245834,
+  "index": "/misterBitCoin/deployment/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/misterBitCoin/deployment/favicon.ico",
+        "/misterBitCoin/deployment/index.html",
+        "/misterBitCoin/deployment/main-es2015.da221fec4c5733336d6c.js",
+        "/misterBitCoin/deployment/main-es5.da221fec4c5733336d6c.js",
+        "/misterBitCoin/deployment/manifest.webmanifest",
+        "/misterBitCoin/deployment/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "/misterBitCoin/deployment/polyfills-es5.9e286f6d9247438cbb02.js",
+        "/misterBitCoin/deployment/runtime-es2015.1eba213af0b233498d9d.js",
+        "/misterBitCoin/deployment/runtime-es5.1eba213af0b233498d9d.js",
+        "/misterBitCoin/deployment/styles.ebb2fe5e3405faad7f47.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/misterBitCoin/deployment/assets/icons/apple-touch-icon.png",
+        "/misterBitCoin/deployment/assets/icons/favicon-16x16.png",
+        "/misterBitCoin/deployment/assets/icons/favicon-32x32.png",
+        "/misterBitCoin/deployment/assets/icons/icon-192x192.png",
+        "/misterBitCoin/deployment/assets/icons/icon-512x512.png",
+        "/misterBitCoin/deployment/assets/images/guy.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/misterBitCoin/deployment/assets/icons/apple-touch-icon.png": "c1e83b9a117ec76c1403b1062cdf9e96518a45a5",
+    "/misterBitCoin/deployment/assets/icons/favicon-16x16.png": "016f96eb2d754ea9117abb92382a2433bd50bf92",
+    "/misterBitCoin/deployment/assets/icons/favicon-32x32.png": "2c67fa482ab406b0d68a49b809b441db3f1cfcb8",
+    "/misterBitCoin/deployment/assets/icons/icon-192x192.png": "bb960ee25c4abaa1d9d959b04fdfb02b724e5a2e",
+    "/misterBitCoin/deployment/assets/icons/icon-512x512.png": "6dca96a7d6ff4cecc2bc95e63789176eb41c61e2",
+    "/misterBitCoin/deployment/assets/images/guy.png": "51ad0687fe10a6a18449d5a14a080422212dd403",
+    "/misterBitCoin/deployment/favicon.ico": "ab39aca3830f64a3d23eec1e76505581f6dad5fe",
+    "/misterBitCoin/deployment/index.html": "e4a8eb98aae765e31393f3666f7285d975a37337",
+    "/misterBitCoin/deployment/main-es2015.da221fec4c5733336d6c.js": "19421acc98045c1bdcf6daed518d1ba99628dbcd",
+    "/misterBitCoin/deployment/main-es5.da221fec4c5733336d6c.js": "fefe0f1657cff9a9883c87c69d19c8d3a4c37632",
+    "/misterBitCoin/deployment/manifest.webmanifest": "e799a94bad7d39d79872c3c0409cc8d4172b2a0d",
+    "/misterBitCoin/deployment/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/misterBitCoin/deployment/polyfills-es5.9e286f6d9247438cbb02.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
+    "/misterBitCoin/deployment/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/misterBitCoin/deployment/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/misterBitCoin/deployment/styles.ebb2fe5e3405faad7f47.css": "b81895bd65c60b22a8da55a13e9a9ff44a84efc4"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}

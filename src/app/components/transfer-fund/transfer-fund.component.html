@@ -1,0 +1,14 @@
+<section class="transfer-funds-container">
+    <p>Transfer coins to {{contact.name}}:</p>
+    <p>Amount:</p>
+    <span>
+        <form (ngSubmit)="onTransferCoins()" #transferForm="ngForm">
+            <div class="form-group">
+                <label for="transfer"></label>
+                <input type="text" class="form-control transfer-input" required [(ngModel)]="amount" id="transfer"
+                    name="transfer" #name="ngModel">
+            </div>
+            <button type="submit" [disabled]="!transferForm.valid">Transfer</button>
+        </form>
+    </span>
+</section>

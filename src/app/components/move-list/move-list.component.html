@@ -1,0 +1,8 @@
+<section *ngIf=(moves.length)>
+    <p>You last {{moves.length}} moves:</p>
+    <section *ngFor="let move of moves" class="move">
+        <div>To: {{move.to}}</div>
+        <div>At: {{move.at | date :'medium'}}</div>
+        <div>Amount: {{move.amount}} coins</div>
+    </section>
+</section>
